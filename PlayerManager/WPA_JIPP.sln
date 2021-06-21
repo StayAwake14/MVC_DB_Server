@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPA_JIPP", "WPA_JIPP\WPA_JIPP.csproj", "{B138CDB3-EC90-4D33-8A77-19129B63CE0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B138CDB3-EC90-4D33-8A77-19129B63CE0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B138CDB3-EC90-4D33-8A77-19129B63CE0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B138CDB3-EC90-4D33-8A77-19129B63CE0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B138CDB3-EC90-4D33-8A77-19129B63CE0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0A15CCA-2A9A-4D6F-8BA4-3E4BCB868DF5}
+	EndGlobalSection
+EndGlobal
