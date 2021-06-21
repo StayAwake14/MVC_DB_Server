@@ -1,0 +1,6 @@
+C:\Users\Mateusz\source\repos\GameService\GameService\bin\Debug\GameService.dll.config
+C:\Users\Mateusz\source\repos\GameService\GameService\bin\Debug\GameService.dll
+C:\Users\Mateusz\source\repos\GameService\GameService\bin\Debug\GameService.pdb
+C:\Users\Mateusz\source\repos\GameService\GameService\obj\Debug\GameService.csprojAssemblyReference.cache
+C:\Users\Mateusz\source\repos\GameService\GameService\obj\Debug\GameService.dll
+C:\Users\Mateusz\source\repos\GameService\GameService\obj\Debug\GameService.pdb
